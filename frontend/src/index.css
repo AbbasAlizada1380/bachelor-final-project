@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "ANSI";
+    src: url("../fonts/kalakaumudi.ttf");
+}
+@font-face {
+    font-family: "Akshar";
+    src: url("../src/fonts/akshar-regular-unicode-font.ttf");
+}
